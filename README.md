@@ -83,3 +83,28 @@ telco-customer-churn-analysis/
     └── dashboard_screenshots/
         ├── overview.png
         └── detail.png
+
+
+
+
+
+
+---
+
+## 🖼️ Dashboard
+
+![Dashboard](docs/dashboard_screenshots/overview.png)
+
+---
+
+## 👤 Author
+
+**[Your Name]** — Data Analyst
+
+[LinkedIn](https://linkedin.com/in/yourprofile)
+
+---
+
+## 📄 License
+
+This project uses the IBM Telco Customer Churn dataset for educational purposes.
