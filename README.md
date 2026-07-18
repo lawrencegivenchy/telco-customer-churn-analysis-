@@ -36,16 +36,16 @@ A telecom company is experiencing a **26.5% customer churn rate**, resulting in 
 |------|---------|
 | **Excel** | Data cleaning, type conversion, missing value handling |
 | **Databricks SQL** | Analytical queries, customer segmentation, feature engineering |
-| **Power BI** | Interactive dashboard with cross-filtering and drill-through |
+| **Power BI** | Interactive dashboard with cross-filtering |
 
 ---
 
 ## 📊 Dashboard Features
 
-- **6 KPI Cards** with dynamic metrics and trend indicators
+- **6 KPI Cards** with dynamic metrics
 - **6 Interactive Charts** (bar, line, donut, gauge, dual-axis)
 - **Cross-Filtering Slicers** for real-time segment analysis
-- **Revenue at Risk Quantification** by customer segment
+- **Revenue at Risk Quantification**
 
 ---
 
@@ -53,55 +53,25 @@ A telecom company is experiencing a **26.5% customer churn rate**, resulting in 
 
 | Priority | Action | Potential Impact |
 |----------|--------|----------------|
-| 🔴 High | Convert month-to-month customers to annual contracts | 30% churn reduction |
-| 🔴 High | Incentivize electronic check users to switch to auto-pay | 45% → 15% churn rate |
-| 🟡 Medium | Bundle online security with fiber plans | 42% → 20% churn rate |
+| 🔴 High | Convert month-to-month to annual contracts | 30% churn reduction |
+| 🔴 High | Incentivize electronic check → auto-pay | 45% → 15% churn rate |
+| 🟡 Medium | Bundle security with fiber plans | 42% → 20% churn rate |
 | 🟡 Medium | Enhanced onboarding for first-year customers | 47% → 30% churn rate |
 
 ---
 
 ## 📁 Repository Structure
-telco-customer-churn-analysis/
-├── README.md
-├── .gitignore
-├── data/
-│   └── README.md              (explain data source, don't upload CSV)
-├── excel/
-│   ├── Telco_Cleaning_Log.xlsx
-│   └── cleaning_steps.md
-├── sql/
-│   ├── 01_setup_and_validation.sql
-│   ├── 02_kpi_summary.sql
-│   ├── 03_churn_drivers.sql
-│   ├── 04_revenue_risk.sql
-│   └── 05_create_analysis_table.sql
-├── powerbi/
-│   ├── Telco_Churn_Dashboard.pbix
-│   └── README.md
-└── docs/
-    ├── business_recommendations.md
-    └── dashboard_screenshots/
-        ├── overview.png
-        └── detail.png
 
-
-
-
-
-
----
-
-## 🖼️ Dashboard
-
-![Dashboard](docs/dashboard_screenshots/Telco.png)
 
 ---
 
 ## 👤 Author
 
-**[Your Name]** — Data Analyst
+**[Lawrence Tebogo Makhafola]** — Data Analyst
 
-[LinkedIn](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lawrence-tee-makhafola)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](https://lawrence-makhafola.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lawrencegivenchy@yahoo.com)
 
 ---
 
