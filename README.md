@@ -61,3 +61,25 @@ A telecom company is experiencing a **26.5% customer churn rate**, resulting in 
 ---
 
 ## 📁 Repository Structure
+telco-customer-churn-analysis/
+├── README.md
+├── .gitignore
+├── data/
+│   └── README.md              (explain data source, don't upload CSV)
+├── excel/
+│   ├── Telco_Cleaning_Log.xlsx
+│   └── cleaning_steps.md
+├── sql/
+│   ├── 01_setup_and_validation.sql
+│   ├── 02_kpi_summary.sql
+│   ├── 03_churn_drivers.sql
+│   ├── 04_revenue_risk.sql
+│   └── 05_create_analysis_table.sql
+├── powerbi/
+│   ├── Telco_Churn_Dashboard.pbix
+│   └── README.md
+└── docs/
+    ├── business_recommendations.md
+    └── dashboard_screenshots/
+        ├── overview.png
+        └── detail.png
