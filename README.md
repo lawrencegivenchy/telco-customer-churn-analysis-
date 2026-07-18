@@ -93,7 +93,7 @@ telco-customer-churn-analysis/
 
 ## 🖼️ Dashboard
 
-![Dashboard](docs/dashboard_screenshots/overview.png)
+![Dashboard](docs/dashboard_screenshots/Telco.png)
 
 ---
 
