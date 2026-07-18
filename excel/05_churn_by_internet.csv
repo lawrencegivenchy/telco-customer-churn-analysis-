@@ -1,0 +1,6 @@
+InternetService,OnlineSecurity,total,churned,churn_rate
+DSL,No,1241,347,27.96
+DSL,Yes,1180,112,9.49
+Fiber optic,No,2257,1114,49.36
+Fiber optic,Yes,839,183,21.81
+No,No internet service,1526,113,7.40
