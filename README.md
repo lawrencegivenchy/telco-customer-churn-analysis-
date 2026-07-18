@@ -2,7 +2,7 @@
 
 &gt; Interactive executive dashboard identifying churn drivers and quantifying revenue at risk for a telecom provider.
 
-![Dashboard Overview](docs/dashboard_screenshots/overview.png)
+![Dashboard Overview](docs/dashboard_screenshots/Telco.png)
 
 ---
 
